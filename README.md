@@ -40,7 +40,8 @@ Sajjayana is a web-based application designed to streamline temple operations by
    ```sh
    cd Sajjayana
    ```
-
+3. Configure the database in config.php with MySQL credentials.
+4. Run the application on a local server (e.g., XAMPP, WAMP, or LAMP).
 
 
 
